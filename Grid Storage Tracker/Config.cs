@@ -5,7 +5,7 @@ namespace GridStorageTracker
 {
     public class Config : ViewModel
     {
-        private bool _enableDedicatedLogFile = true;
+        private bool _enableDedicatedLogFile = false;
 
         [Display(Name = "Enable Dedicated Log File",
             Description = "When enabled, writes a separate " +
