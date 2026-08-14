@@ -1,0 +1,6 @@
+﻿<PluginManifest xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Name>Grid Storage Tracker</Name>
+	<Guid>DDE75A35-3F8C-4981-ADAA-329C4D48F37F</Guid>
+	<Repository>Grid Storage Tracker</Repository>
+	<Version>v0.3.1</Version>
+</PluginManifest>
