@@ -3,7 +3,6 @@ using Sandbox.Game.World;
 using SpaceEngineers.Game.SessionComponents;
 using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Text;
 using Torch.Commands;
 using Torch.Mod;

@@ -5,7 +5,7 @@ using System.Threading;
 using System.Xml.Serialization;
 using NLog;
 
-namespace Grid_Removal_Warning
+namespace GridStorageTracker
 //Thanks rar61 :))
 {
     public class VeryPersistent<T> : IDisposable where T : new()
